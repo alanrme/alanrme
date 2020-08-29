@@ -1,3 +1,4 @@
+![Xilog Logo](https://xilog.xyz/img/logo-small.jpg)
 # Xilog
 
 I make bad code.  
