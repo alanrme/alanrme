@@ -2,7 +2,7 @@
 
 I make bad code. [Read more about me](https://xilog.xyz)
 
-![Xilog's github stats](https://github-readme-stats.vercel.app/api?username=XilogOfficial&show_icons=true&theme=radical)
+![Xilog's github stats](https://github-readme-stats.vercel.app/api?username=XilogOfficial&show_icons=true&title_color=fff&text_color=fff)
 
 <!--
 **XilogOfficial/XilogOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
