@@ -1,4 +1,4 @@
-![Xilog Logo](https://xilog.xyz/img/logo-small.jpg)
+![Xilog Logo](https://xilog.xyz/img/logo-small.jpg =100x100)
 # Xilog
 
 I make bad code.  
