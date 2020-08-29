@@ -1,4 +1,4 @@
-<img src="https://xilog.xyz/img/logo-small.jpg" width="100" height="100">
+<!-- <img src="https://xilog.xyz/img/logo-small.jpg" width="100" height="100"> -->
 
 # Xilog
 
