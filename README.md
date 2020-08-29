@@ -1,4 +1,5 @@
-<img src="https://xilog.xyz/img/logo-small.jpg">
+<img src="https://xilog.xyz/img/logo-small.jpg" width="100" height="100">
+
 # Xilog
 
 I make bad code.  
