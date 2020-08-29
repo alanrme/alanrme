@@ -1,6 +1,8 @@
 # Xilog
 
-I make bad code. [Read more about me](https://xilog.xyz)
+I make bad code.  
+[Read more about me](https://xilog.xyz)  
+Go is the best language
 
 ![Xilog's github stats](https://github-readme-stats.vercel.app/api?username=XilogOfficial&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,1ec1c7,4e44b0)
 
