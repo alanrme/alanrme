@@ -3,6 +3,9 @@
 # Xilog
 
 I make bad code.  
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O22D6HD)
+
 [Read more about me](https://xilog.xyz)  
 Go is the best language
 
