@@ -2,12 +2,11 @@
 
 # Xilog
 
-I make bad code.  
+I make bad code and I have an unhealthy addiction to JavaScript
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O22D6HD)
 
-[Read more about me](https://xilog.xyz)  
-Go is the best language
+[Read more about me](https://xilogofficial.github.io/xilog)
 
 ![Xilog's github stats](https://github-readme-stats.vercel.app/api?username=XilogOfficial&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,1ec1c7,4e44b0)
 
