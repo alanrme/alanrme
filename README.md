@@ -3,7 +3,8 @@
 # Hi, I'm Alan.
 
 Full stack developer and soon-to-be computer engineering major.
-[Look at my website for more about me!](https://alanr.me)
+
+**[Look at my website for more about me!](https://alanr.me)**
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O22D6HD)
 
